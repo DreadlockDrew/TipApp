@@ -1,5 +1,4 @@
 # TipApp
-
 My app, "Tip Tracker," is designed to help restaurant businesses track tips made by their employees. With the ability to save information about the quantity of tips, who made them, and the time they were made, it is an essential tool for any restaurant owner or manager. The app was designed for Android Nougat and requires minimal permissions to function.
 Features: Tip Tracker has several features that make it a valuable tool for restaurant businesses. First and foremost, it allows for the recording and storage of tips made by employees. The app's user-friendly interface makes it easy to input data, and the data is stored securely on the user's device. Additionally, the app has the ability to send SMS notifications to employees, reminding them to input their tips on a regular basis.
 In addition to the basic recording and storage of tips, Tip Tracker also has a few additional features that make it stand out. The app includes a recurring payment plan option, which allows for automatic payment of tips on a regular basis. This feature is particularly useful for businesses that have a large number of employees and want to simplify the payment process.
