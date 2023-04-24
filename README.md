@@ -1,4 +1,17 @@
 # TipApp
+1. The app I developed is a simple tool for restaurant businesses to track the quantity of tips, who made them, and when they were made. This app addresses the need for an efficient way to track tips and ensure that they are distributed fairly among employees. 
+
+2. The necessary screens and features for this app include a login screen, a home screen to display tip information, a screen to add new tips, and a settings screen for notifications and other preferences. The UI designs were created with users in mind by ensuring that they are easy to navigate and visually appealing. The designs were successful because they were intuitive and allowed users to easily access the features they needed. 
+
+3. To approach the process of coding the app, I utilized object-oriented programming techniques and followed best practices for code organization and documentation. I also used libraries and frameworks such as SQLite and AndroidX to simplify the development process. These techniques and strategies can be applied in the future by continuing to prioritize code organization and maintainability. 
+
+4. Testing was essential to ensure that the app was functional and user-friendly. I tested the app on multiple devices and emulators to identify and fix any bugs or issues. This process is important because it ensures that the app performs as expected and delivers the intended functionality. 
+
+5. One area where innovation was necessary was in creating a system for notifications to remind users to distribute tips at the end of each shift. This required researching and implementing the Android notification system and developing a scheduling algorithm to ensure that notifications were sent at the correct time. 
+
+6. One component where I was particularly successful in demonstrating my knowledge, skills, and experience was in creating the SQLite database to store tip information. This involved creating a database helper class, defining table schemas, and implementing CRUD operations. The resulting database was efficient and reliable, demonstrating a strong understanding of database design and implementation.
+
+
 My app, "Tip Tracker," is designed to help restaurant businesses track tips made by their employees. With the ability to save information about the quantity of tips, who made them, and the time they were made, it is an essential tool for any restaurant owner or manager. The app was designed for Android Nougat and requires minimal permissions to function.
 Features: Tip Tracker has several features that make it a valuable tool for restaurant businesses. First and foremost, it allows for the recording and storage of tips made by employees. The app's user-friendly interface makes it easy to input data, and the data is stored securely on the user's device. Additionally, the app has the ability to send SMS notifications to employees, reminding them to input their tips on a regular basis.
 In addition to the basic recording and storage of tips, Tip Tracker also has a few additional features that make it stand out. The app includes a recurring payment plan option, which allows for automatic payment of tips on a regular basis. This feature is particularly useful for businesses that have a large number of employees and want to simplify the payment process.
